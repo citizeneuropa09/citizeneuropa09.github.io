@@ -12,6 +12,10 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
 
+# Jekyll 4.x compatibility
+markdown: kramdown
+highlighter: rouge
+
 # Optimize Jekyll
 exclude:
   - .editorconfig
@@ -21,6 +25,7 @@ exclude:
   - Gemfile.lock
   - LICENSE.md
   - README.md
+  - vendor
 
 sass:
   sass_dir: _sass
