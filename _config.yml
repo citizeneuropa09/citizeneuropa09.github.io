@@ -1,6 +1,6 @@
 # Setup
 title: ПУЛС ОД ФРОНТОТ 
-url: https://pulsodfrontot.github.io
+url: https://pulsodfrontot.org
 description: "Блог за тактичка медицина и прва помош"
 paginate: 1
 paginate_path: "/page:num/"
