@@ -1,10 +1,16 @@
 # Setup
 title: ПУЛС ОД ФРОНТОТ 
 url: https://pulsodfrontot.github.io
+description: "Блог за тактичка медицина и прва помош"
 paginate: 1
 paginate_path: "/page:num/"
 baseurl: "/"
 permalink: pretty
+
+# Open Graph / Social Media
+image: /assets/og.png
+image_width: 1200
+image_height: 630
 
 # Gems
 plugins:
